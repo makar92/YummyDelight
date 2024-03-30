@@ -1,0 +1,107 @@
+[
+ {
+  "name": "Fried potatoe with meat and mushrooms",
+  "weight": 400,
+  "price": 369,
+  "description": "Cast iron skillet fried potatoe with pork and champignons. The potatoe comes with pickle.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FFried_potatoe_with_meat_and_mushrooms.jpg?alt=media&token=ab633750-35cb-4a00-b491-22c0fb99ee01"
+ },
+ {
+  "name": "Chicken with vegetables",
+  "weight": 270,
+  "price": 329,
+  "description": "Pieces of chicken fillet fried with string beans, bell pepper, french fries in a spicy sweet and sour sauce. ",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FChicken_with_vegetables.jpg?alt=media&token=03a4825e-92ce-41ab-bb1e-a55fa8b8ba8d"
+ },
+ {
+  "name": "Pasta Carbonara",
+  "weight": 270,
+  "price": 389,
+  "description": "Bacon and champignons, cream, Parmesan cheese, cherry, spices.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FPasta_Carbonara.jpg?alt=media&token=229732e3-7a13-4ab3-b23b-198414047440"
+ },
+ {
+  "name": "Spare ribs with potato wedges",
+  "weight": 300,
+  "price": 490,
+  "description": "Spare ribs are the extremely tender meat. Served with potatoe wedges.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FSpare_ribs_with_potato_wedges.jpg?alt=media&token=f4d36a6d-a7b0-471b-9465-c1c857313161"
+ },
+ {
+  "name": "Bibimbap",
+  "weight": 500,
+  "price": 630,
+  "description": "Popular korean dish: pork, bell pepper, carrot,  squash, mushrooms,  fern, kimchi, rice, egg, Gochujang pasta. Served with btoth and rice.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FBibimbap.jpg?alt=media&token=786f42f3-5a83-42af-bc68-e528acf93aa1"
+ },
+ {
+  "name": "Dumplings with potatoe and onion",
+  "weight": 250,
+  "price": 290,
+  "description": "Russian vareniki with potato and onion.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FDumplings_with_potatoe_and_onion.jpg?alt=media&token=d78d6c2c-5134-40d5-8336-1732277a3b59"
+ },
+ {
+  "name": "Dumplings with potatoe, onion and mushrooms",
+  "weight": 260,
+  "price": 320,
+  "description": "Russian vareniki with potato, fried onion and mushrooms.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FDumplings_with_potatoe_onion_and_mushrooms.jpg?alt=media&token=6d48497a-6d4a-45c4-997e-dff253b6713b"
+ },
+ {
+  "name": "Wok Savoury tomato",
+  "weight": 350,
+  "price": 420,
+  "description": "Udon noodles, bell pepper, garlic scapes, carrot, onion, shiitake mushrooms, meat of your choice,  tomato sauce, teriyaki sauce,  Sriracha sauce, cherry.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FWok_Savoury_tomato.jpg?alt=media&token=d965c838-ec14-465b-8358-683bf1439f7e"
+ },
+ {
+  "name": "Wok Creamy teriyaki",
+  "weight": 350,
+  "price": 420,
+  "description": "Udon noodles, bell pepper, garlic scapes, carrot, onion, shiitake mushrooms, meat of your choice, soya sauce,  teriyaki sauce, cream, spices.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FWok_Creamy_teriyaki.jpg?alt=media&token=b10b608a-1cbc-4047-8ae5-9bf636b00ef2"
+ },
+ {
+  "name": "Wok Tom Yum",
+  "weight": 350,
+  "price": 530,
+  "description": "Udon noodles, bell pepper, carrot, onion, shiitake mushrooms, mussel on the sash, tiger prawns,  squid, scallop, teriyaki sauce, tom yum pasta, cream, coconut milk,  cilantro, cherry.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FWok_Tom_Yum.jpg?alt=media&token=f95283cf-68e2-4ee3-a453-239adff9edc8"
+ },
+ {
+  "name": "Wok Japchae, not spicy",
+  "weight": 350,
+  "price": 420,
+  "description": "Sweet potatoe noodles (cellophane), bell pepper, garlic scapes, carrot, onion, shiitake mushrooms, meat of your choice, yoster sauce, teriyaki sauce, sesame seed oil, cilantro, spices, egg strips.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FWok_Japchae_not_spicy.jpg?alt=media&token=cf8aa916-91a7-4780-a135-650cb2566bc8"
+ },
+ {
+  "name": "Buuz",
+  "weight": 210,
+  "price": 410,
+  "description": "Buuz with beef or pork.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FBuuz.jpg?alt=media&token=967d5fbf-f1dc-4642-afc1-767ff969c99e"
+ },
+ {
+  "name": "Ramen with pork",
+  "weight": 500,
+  "price": 480,
+  "description": "Ramen noodles, minced pork, egg, spring onion, yellow onion, roasted sesame seeds, gochukaru pepper, Toenjang pasta.  ",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FRamen_with_pork.jpg?alt=media&token=f646c406-a693-4760-9e09-b97249791cea"
+ },
+ {
+  "name": "Galbi ribs",
+  "weight": 450,
+  "price": 650,
+  "description": "Spare ribs with vegetables and rice in Galbi sauce.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FGalbi_ribs.jpg?alt=media&token=5711eb6d-fd4c-4343-8aeb-c158a303e848"
+ },
+ {
+  "name": "Samgyeopsal",
+  "weight": 700,
+  "price": 800,
+  "description": "Samgyeopsal - fried pork neck slices. It's a savoury dish served with korean salads: kimchi, garlic scapes, carrot, fern, cucumbers, lobo, garlic, green capsicum, sesame seed oil with salt and black pepper,  paste for meat, lettuce, 2 portions of boiled rice. This dish is for two people.",
+  "image": "https:\/\/firebasestorage.googleapis.com\/v0\/b\/apptrix-94f8c.appspot.com\/o\/dishes%2FSamgyeopsal.jpg?alt=media&token=842b7a7e-cc23-4bc8-a8bd-69d3c557fb44"
+ }
+]

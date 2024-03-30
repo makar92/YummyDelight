@@ -1,0 +1,130 @@
+.header {
+  position: relative;
+  z-index: 10;
+  padding: 50px 0px;
+
+  @media (max-width: 1024px) {
+    padding: 30px 0px;
+  }
+
+  @media (max-width: 767px) {
+    padding: 20px 0px;
+  }
+}
+
+.content {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  column-gap: 22px;
+  user-select: none;
+}
+
+.nuv {
+  flex: 1 1 auto;
+
+  display: flex;
+  column-gap: 50px;
+
+  @media (max-width: 767px) {
+    display: none;
+  }
+
+  & li a {
+    color: #606060;
+    font-size: 18px;
+    font-weight: 600;
+  }
+}
+
+.loginBlock {
+  display: flex;
+  column-gap: 20px;
+  align-items: center;
+}
+
+.button {
+  @media (max-width: 767px) {
+    display: none;
+  }
+}
+
+.burger {
+  position: relative;
+  display: none;
+
+  @media (max-width: 767px) {
+    display: block;
+  }
+}
+
+
+.borderBottom {
+  width: 100%;
+  margin: 30px 0px 0px 0px;
+
+  border-bottom: 1px solid rgb(203, 203, 203);
+  
+  @media (max-width: 767px) {
+    margin: 20px 0px 0px 0px;
+  }
+}
+
+ 
+.burgerMenu {
+  display: none;
+
+  opacity: 100%;
+  transform: translateY(0%);
+  transition: opacity 0.3s ease 0s;
+
+  @media (max-width: 767px) {
+    position: absolute;
+    top: calc(100% - 21px);
+    left: 0;
+    z-index: 1;
+    width: 100%;
+    height: calc(100vh - 100% + 20px);
+    padding: 20px 20px;
+
+    display: block;
+
+    background: #8c83c4;
+  }
+
+  &__list {
+    width: 100%;
+
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    row-gap: 20px;
+
+    & li {
+      padding: 0px 0px 20px 0px;
+      width: 100%;
+
+      display: block;
+
+      color: #ffffff;
+      font-size: 20px;
+      font-weight: 600;
+      text-align: center;
+      cursor: pointer;
+
+      &:not(:last-child) {
+        border-bottom: 1px solid #ffffff;
+      }
+      
+      & a {
+        color: #ffffff;
+      }
+    }
+  }
+}
+
+.dn {
+  opacity: 0%;
+  transform: translateY(-200%);
+  transition: opacity 0.3s ease 0s, transform 0s ease 0.3s;
+ }

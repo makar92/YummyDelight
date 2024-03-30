@@ -1,0 +1,47 @@
+.order {
+  padding: 20px 0px 100px 0px;
+}
+
+
+
+
+.address {
+  margin: 20px 0px 0px 0px;
+
+
+ 
+}
+.title {
+  margin: 0px 0px 20px 0px;
+
+  font-size: 28px;
+  font-weight: 600;
+  align-items: center;
+
+  @media (max-width: 767px) {
+    font-size: 20px;
+  }
+
+}
+.addressInputs {
+  margin: 0px 0px 20px 0px;
+
+  display: flex;
+  flex-direction: column;
+  row-gap: 20px;
+}
+
+
+.paymentMethod {
+  padding: 40px 0px;
+  
+}
+
+
+
+.paymentMethodItems {
+  display: flex;
+  column-gap: 20px;
+  row-gap: 20px;
+  flex-wrap: wrap;
+}

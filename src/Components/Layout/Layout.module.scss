@@ -1,0 +1,17 @@
+.layout {
+  position: relative;
+  height: 100vh;
+
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+
+  background: #F9F9F9;
+ 
+}
+
+.content {
+
+  flex: 1 1 auto;
+  // padding: 0px 0px 100px 0px;
+}
